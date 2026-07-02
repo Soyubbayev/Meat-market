@@ -64,5 +64,5 @@ if (item) {
     </div>
   `
 } else {
-  document.body.innerHTML = `<p style="text-align:center; margin-top:50px;">Mahsulot topilmadi</p>`
+  document.body.innerHTML = `<p style="text-align:center; margin-t op:50px;">Mahsulot topilmadi</p>`
 }
