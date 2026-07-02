@@ -48,6 +48,7 @@ if (item) {
       gap: 15px;
       font-family: sans-serif;
     ">
+    <button style="padding:12px 80px; border:none; box-shadow:0 0 3px gray; background-color:#fff"><a style="color:#E31244; text-decoration:none; font-weight:900" href="./product.html">EXIT</a></button>
       <img src="${item.image}" width="350" style="border-radius: 20px;" alt="">
       <h4 style="color: #F8BA12;">${item.title__h4}</h4>
       <h2>${item.title__h2}</h2>
